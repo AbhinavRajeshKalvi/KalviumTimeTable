@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Poppins:wght@500&family=Roboto:wght@400;700&display=swap');
+
+table, th, tr, td {
+  margin: auto;
+  border-spacing: 5px;
+  padding: 20px;
+  border-collapse: collapse;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 40px;
+}
+th{
+  background-color: rgb(214,50,49);
+  color: white;
+}
+#grey{
+  background-color: rgb(243,243,243);
+}
+body{
+  background-color: rgb(251,228,228);
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+#light{
+  background-color: rgb(255,255,255)
+}
+#lunch{
+  text-align:center;
+}
+.border{
+  border-bottom: 2px solid rgb(231, 231, 231);
+}
+.red{
+  border-bottom: 2px solid rgb(217,77,76);
+}
+td{
+  font-size: small;
+}
+#kalvium{
+    position: relative;
+    left: 150px;
+    margin-top: 10px;
+}
+#profilepng{
+    position: relative;
+    left: 1000px;
+    margin-top: 10px;
+}
+#student{
+    position: relative;
+    left: 1230px;
+    bottom: 49px;
+    color: rgb(244,67,54);
+}
+#courses{
+    position: relative;
+    left: 1340px;
+    bottom: 89px;
+    color: rgb(244,67,54);
+}
+h3{
+    position: relative;
+    top: 20px;
+    left: 700px;
+}
